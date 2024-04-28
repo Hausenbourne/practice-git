@@ -1,0 +1,50 @@
+[LOG] Instance Signature: fe7b748eb668136dd0558b7c8279bfcd7ab4d759_1714275087
+[LOG] Hyprland PID: 752
+[LOG] ===== SYSTEM INFO: =====
+[LOG] System name: Linux
+[LOG] Node name: archlinux
+[LOG] Release: 6.8.7-arch1-2
+[LOG] Version: #1 SMP PREEMPT_DYNAMIC Fri, 19 Apr 2024 09:51:31 +0000
+
+
+[LOG] GPU information:
+01:00.0 VGA compatible controller [0300]: NVIDIA Corporation GA106M [GeForce RTX 3060 Mobile / Max-Q] [10de:2520] (rev a1) (prog-if 00 [VGA controller])
+07:00.0 VGA compatible controller [0300]: Advanced Micro Devices, Inc. [AMD/ATI] Rembrandt [Radeon 680M] [1002:1681] (rev c8) (prog-if 00 [VGA controller])
+
+
+[WARN] Warning: you're using an NVIDIA GPU. Make sure you follow the instructions on the wiki if anything is amiss.
+
+[LOG] os-release:
+NAME="Arch Linux"
+PRETTY_NAME="Arch Linux"
+ID=arch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archlinux.org/"
+DOCUMENTATION_URL="https://wiki.archlinux.org/"
+SUPPORT_URL="https://bbs.archlinux.org/"
+BUG_REPORT_URL="https://gitlab.archlinux.org/groups/archlinux/-/issues"
+PRIVACY_POLICY_URL="https://terms.archlinux.org/docs/privacy-policy/"
+LOGO=archlinux-logo
+
+[LOG] ========================
+
+
+
+[INFO] If you are crashing, or encounter any bugs, please consult https://wiki.hyprland.org/Crashes-and-Bugs/
+
+
+[LOG] 
+Current splash: Alors on danse
+
+
+[LOG] Creating the EventLoopManager!
+[LOG] Creating the HookSystem!
+[LOG] Creating the KeybindManager!
+[LOG] [hookSystem] New hook event registered: configReloaded
+[LOG] Creating the AnimationManager!
+[LOG] Created a bezier curve, baked 255 points, mem usage: 4.08kB, time to bake: 21.25µs. Estimated average calc time: 0.04µs.
+[LOG] Creating the ConfigManager!
+[LOG] Created a bezier curve, baked 255 points, mem usage: 4.08kB, time to bake: 8.48µs. Estimated average calc time: 0.03µs.
+[LOG] Using config: /home/bourne/.config/hypr/hyprland.conf
+[LOG] !!!!HEY YOU, YES YOU!!!!: further logs to stdout / logfile are disabled by default. BEFORE SENDING THIS LOG, ENABLE THEM. Use debug:disable_logs = false to do so: https://wiki.hyprland.org/Configuring/Variables/#debug
